@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PavTrap.github.io/team-project-10",
+  "homepage": "https://GoitStudentsWorks.github.io/js_72_PavTrap",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-10/"
+    "build": "parcel build src/*.html --public-url /js_72_PavTrap/"
   },
   "repository": {
     "type": "git",
